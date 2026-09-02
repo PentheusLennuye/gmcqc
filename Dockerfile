@@ -1,5 +1,5 @@
-FROM ghcr.io/gohugoio/hugo:v0.165.0
+FROM hugomods/hugo:exts
 
 WORKDIR /app
 COPY . /app
-RUN hugo -d public
+RUN hugo --minify
