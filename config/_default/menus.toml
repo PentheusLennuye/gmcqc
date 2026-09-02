@@ -1,0 +1,31 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about"
+    weight = 2
+
+#[[main]]
+#    identifier = "reference"
+#    name = "Reference"
+#    url = "/reference"
+#    weight = 3
+
+#[[main]]
+#    identifier = "tags"
+#    name = "Tags"
+#    url = "/tags"
+#    weight = 4
+
+# Social Media Configuration
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/PentheusLennuye"
+    weight = 3
