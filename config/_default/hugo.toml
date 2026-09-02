@@ -5,7 +5,7 @@ theme = 'enchanted-lowkey'
 title = 'George Cummings, Qc, Canada'
 enableRobotsTXT = true
 summaryLength = 15
-paginate = 5
+pagination.pagerSize = 5
 
 [languages]
   [languages.en]
