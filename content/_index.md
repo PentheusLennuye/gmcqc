@@ -1,6 +1,6 @@
 +++
 date = '2026-09-02T12:23:58-04:00'
-draft = true
+draft = false
 title = 'Frontpage'
 +++
 
