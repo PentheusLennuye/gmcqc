@@ -1,4 +1,4 @@
-baseURL = 'http://gmcqc.ca'
+baseURL = 'https://gmcqc.ca'
 copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
 defaultContentLanguage = 'en'
 theme = 'enchanted-lowkey'
