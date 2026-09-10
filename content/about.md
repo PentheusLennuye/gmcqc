@@ -15,28 +15,27 @@ Eastern Townships of Quebec, Canada.
 
 ### History
 
-My career has been mostly as system and network administrator with some side
-jobs as instructor – not necessarily always in IT. Currently I’m a senior
-automation "architect" (a position, not a qualification) at a major
+My career has been spent mostly as system and network administrator with some
+side jobs as an instructor – not necessarily always in IT. Currently I’m a
+senior automation "architect" (a position, not a qualification) at a major
 multinational computing firm. My life revolves around cloud infrastructure
 management and automation. This means I work in a
-development/"tiger"/centre-of-excellence team married to network services and
-Kubernetes. I spend my time coding in Python, acting as the spokesperson for the
-team in demonstrations, providing guidance to junior developers, interfacing
-with project leadership with their language, improving documentation,
-encouraging info management, and maintaining team morale.
+development/centre-of-excellence team married to network services and
+Kubernetes. I spend my corporate time coding in Python, acting as the
+spokesperson for team demonstrations, providing guidance to junior developers,
+interfacing with non-technical management improving documentation, encouraging
+information management, and maintaining team morale.
 
 Necessity leads me to experiment in Go although I'd rather poke around in Rust
 and fiddle with Haskell.
 
 ### Goals
 
-I've basically achieved what I wanted: a respected senior position in tech with
-one foot in experience, responsibility for a variety of development and
-non-development tasks, and the other foot in learning new stuff.
+I've basically achieved what I wanted: to be a respected senior resource in
+tech with one foot in experience and the other in learning new things.
 
 When it is time to get out of corporate-land, I wish to be a teacher at the
-CEGEP level.
+CÉGEP level.
 
 ### Education
 

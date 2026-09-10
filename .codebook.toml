@@ -2,6 +2,7 @@ dictionaries = ["en_gb"]
 words = [
     "Ansible's",
     "Cachy",
+    "CÉGEP",
     "DSL's",
     "Kubernetes",
     "Kyokushin",

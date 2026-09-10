@@ -1,7 +1,7 @@
 +++
 date = '2026-09-02T12:23:58-04:00'
 draft = false
-title = 'Frontpage'
+title = 'Senior IT Internist'
 +++
 
 ## George Cummings
@@ -12,14 +12,15 @@ reviewing systems programming as well. He may be consulted on things Linux,
 Kerberos, and Python. He may say smart things about Golang, information
 management, and documentation.
 
-George Cummings has a Master in Management of AI, and has formal training and
+George Cummings has a Master in Management of AI, and formal training and
 experience in Agile and waterfall project management. He is an advocate for
 DevOps.
 
 ## Email Communications
 
-This site does not publish any email addresses. If you have been invited to use
-email, you already have the email addresses, their purpose and security.
+This site does not publish any email address. If you have been invited to use
+email, you already have my email addresses, their purpose and thei security
+posture.
 
 ### Encryption
 
