@@ -1,12 +1,12 @@
 +++
 date = '2026-09-02T12:23:58-04:00'
 draft = false
-title = 'Senior IT Infrastructure and Automation DevOps Programmer/Analyst'
+title = 'IT Internist'
 +++
 
 {{< toc >}}
 
-My name is George Cummings. I am a senior IT infrastructure and automation
+My name is George Cummings. I am currently a senior IT infrastructure and automation
 DevOps programmer/analyst. I have been in the IT industry for over 30 years as
 administrator, coder, DevOps enthusiast, student, and instructor. I live in the
 Eastern Townships of Quebec, Canada.
