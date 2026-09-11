@@ -19,7 +19,7 @@ DevOps.
 ## Email Communications
 
 This site does not publish any email address. If you have been invited to use
-email, you already have my email addresses, their purpose and thei security
+email, you already have my email addresses, their purpose and their security
 posture.
 
 ### Encryption
